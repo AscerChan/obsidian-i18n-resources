@@ -1,15 +1,1 @@
-[
-    {
-        "id": "RL3H9lny1hTqi6dqPhOvI2I3VIaWhB4a",
-        "plugin": "pdf-plus",
-        "language": "zh-cn",
-        "version": "0.40.31",
-        "supported_versions": "0.40.31",
-        "title": "PDF++",
-        "description": "PDF++ Localization & Tweaks",
-        "hash": "18764f1a18764f1a18764f1a18764f1a",
-        "created_at": "2026-04-09T18:12:42.128Z",
-        "updated_at": "2026-04-09T18:14:03.658Z",
-        "type": "plugin"
-    }
-]
+[]
